@@ -23,3 +23,7 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - Do the odd numbered `p` elements share a class?
 - Do the even numbered `div` elements have unique IDs?
 - Does the Number 3 element have multiple classes?
+
+### Thoughts
+- My code did work in the end but was a lot less precise or sleak.
+- Communicability of code could have been better as the usage of odd and oddly cool to create a distinction was very well done, along with class odd being used very well. To bear in mind for hte future :)
