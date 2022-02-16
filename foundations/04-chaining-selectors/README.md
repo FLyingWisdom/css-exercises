@@ -18,3 +18,7 @@ The properties you need to add to each element are:
 - Did you properly chain class selectors for each rule?
 - Does the `proportioned` image retain its original square proportions?
 - Does the `distorted` image end up looking squished and, well, distorted?
+
+### Reflection
+- I kept confusing grouping selectors and chaining selectors and so this exercises took much longer than it was supposed to, which was only 2 minutes after I had understood the instructions. Something to bear in mind while i move forward, incase this becomes a habitual problems.
+- My height and width were written the other way around, it might be important to do height and then width as that may be the industry standard.

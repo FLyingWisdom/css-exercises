@@ -16,3 +16,6 @@ The properties you need to add are:
 ### Self Check
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
+
+### Reflection
+- Once again, a lot easier than I thought it would be. Perhaps this is more a reflection of me than the difficulty of the exercise.

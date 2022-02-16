@@ -13,3 +13,7 @@ Issues with the cascade can be the bane of their existence for many when it come
 ### Self Check
 - Did you make sure to not edit the HTML file?
 - If you added selectors to the CSS, do they target a valid HTML element?
+
+
+### REflections
+- Again, this was a lot easier than i thought it would be. However, I still don't believe I have actually grasped the crux of Cascade. Maybe another read through the solutions part and theodinproject page part as well (?).
