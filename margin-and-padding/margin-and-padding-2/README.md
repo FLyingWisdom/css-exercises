@@ -16,3 +16,7 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - Everything inside the `.button-container` section is centered, and there is 8px padding.
 - The Big Button is centered on its own line.
 - The Big Button has 24px space on the sides, and 8px on top and bottom.
+
+### REflection
+- First difference i noticed was how i could remove sections as well, i suppose a part of me thought that everything was fine as it was nothing needed to be removed btu upon removing the other paramaters... actually this was my mistake, the solution was labelled in such a way that it overwrote the previous parts ala CSS cascade but so the previous parameters were still there.
+- Im not quite sure what difference gave me my specific solution and one for theirs. May be good to read up on this a bit further and look it up again
